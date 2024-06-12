@@ -5,6 +5,13 @@ on:
     branches: [ main ]
   # pull_request:
   #   branches: [ main ]
+  workflow_dispatch:
+    inputs:
+      name:
+        description: '同步镜像版本'
+        required: true
+        default: '同步镜像版本'
+
 
 env:
   REGISTRY: registry.cn-hangzhou.aliyuncs.com
