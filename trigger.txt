@@ -1,1 +1,1 @@
-3588_llm:latest registry.cn-hangzhou.aliyuncs.com/hiasia/3588_llm:latest
+kaylor/rk3588_llm:latest registry.cn-hangzhou.aliyuncs.com/hiasia/3588_llm:latest
