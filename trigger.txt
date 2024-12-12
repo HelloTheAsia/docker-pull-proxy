@@ -1,1 +1,1 @@
-alpine:20240606 registry.cn-hangzhou.aliyuncs.com/yaming116/alpine:20240606
+3588_llm:latest registry.cn-hangzhou.aliyuncs.com/hiasia/3588_llm:latest
