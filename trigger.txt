@@ -1,1 +1,1 @@
-jsntwdj/rkllm_chat:1.0.1 registry.cn-hangzhou.aliyuncs.com/hiasia/3588_llm:1.0.1
+thijsvanloef/palworld-server-docker:latest registry.cn-hangzhou.aliyuncs.com/hiasia/palworld:latest
