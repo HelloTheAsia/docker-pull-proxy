@@ -1,1 +1,1 @@
-thijsvanloef/palworld-server-docker:latest registry.cn-hangzhou.aliyuncs.com/hiasia/palworld:latest
+redroid/redroid:12.0.0_64only-latest registry.cn-hangzhou.aliyuncs.com/hiasia/redroid:12.0.0_64
