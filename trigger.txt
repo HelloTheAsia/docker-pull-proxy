@@ -1,1 +1,1 @@
-redroid/redroid:12.0.0_64only-latest registry.cn-hangzhou.aliyuncs.com/hiasia/redroid:12.0.0_64
+chenyme/chenyme-aavt:latest registry.cn-hangzhou.aliyuncs.com/hiasia/aatv:latest
