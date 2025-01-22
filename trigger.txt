@@ -1,1 +1,1 @@
-chenyme/chenyme-aavt:latest registry.cn-hangzhou.aliyuncs.com/hiasia/aatv:latest
+chenyme/chenyme-aavt:latest registry.cn-hangzhou.aliyuncs.com/hiasia/aavt:latest
